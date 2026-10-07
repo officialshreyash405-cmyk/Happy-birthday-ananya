@@ -5,9 +5,9 @@
    ========================================================================== */
 
 const CONFIG = {
-  girlfriendName: "Julie",
-  myName: "Aviral",
-  nicknames: ["Bubu", "Jaanu", "Gulabo", "Mommy"], // rotate under the title
+  girlfriendName: "Ananya",
+  myName: "Shreyash",
+  nicknames: ["Babbyy", "Merii jaan", "Princess", "Mommy"], // rotate under the title
 
   pin: "1083",
   pinHint: "4 numbers. Formula secret hai — sirf hum dono jaante hain. Dimaag laga lena. 🔐",
